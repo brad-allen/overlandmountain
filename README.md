@@ -1,2 +1,2 @@
 # overlandmountain.com website
-My Photography Site
+Our Photography Site - currently redirects to heroku
